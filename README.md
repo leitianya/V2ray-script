@@ -1,6 +1,5 @@
 # V2ray-script  
- *****
- 一键脚本:wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh
+ 一键脚本:`wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh`
 ******
 ##功能特点
 
