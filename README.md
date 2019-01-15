@@ -4,9 +4,9 @@
  
  `wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh`
 ******
-##功能特点
+# 功能特点
 
-支持 V2Ray 多数传输协议
+- [支持 V2Ray 多数传输协议](功能特点)
 
 支持 WebSocket + TLS / HTTP/2
 
@@ -55,7 +55,7 @@
 人性化向导 & 纯净安装 & 卸载彻底
 
 *******
-##安装或卸载
+# 安装或卸载
 
 要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统
 
@@ -64,4 +64,4 @@
 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题
 
 
->转自https://233now.com/post/1/
+> 转自https://233now.com/post/1/
