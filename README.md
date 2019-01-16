@@ -7,6 +7,20 @@
 wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh
 ```
 ******
+# 更新日志
+<b>2018-01-28</b>
+* 第一个完善版本发布…
+
+**2018-5-2**
+* 支持 HTTP/2 … 懒得发一个版本就在这里写一下
+
+**2018-5-26**
+* 支持 Socks5 …
+
+**2019-1-5**
+* v3 版本，更加好用了。新年快乐！
+
+
 # 功能特点
 
 * 支持 V2Ray 多数传输协议
