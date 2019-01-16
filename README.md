@@ -1,8 +1,11 @@
 # V2ray-script  
- 
+ > 转自https://233now.com/post/1/
+
  下载安装:
  
- `wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh`
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh
+```
 ******
 # 功能特点
 
@@ -50,18 +53,15 @@
 * 集成可选安装 锐速 (by moeclub.org)
 
 
-一键 查看运行状态 / 查看配置信息 / 启动 / 停止 / 重启 / 更新 / 卸载 / 等等…
+* 一键 查看运行状态 / 查看配置信息 / 启动 / 停止 / 重启 / 更新 / 卸载 / 等等…
 
-人性化向导 & 纯净安装 & 卸载彻底
+* 人性化向导 & 纯净安装 & 卸载彻底
 
 *******
 # 安装或卸载
 
-要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统
+* <b>要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统</b>
 
-推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。
+* 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。
 
-备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题
-
-
-> 转自https://233now.com/post/1/
+* 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题
