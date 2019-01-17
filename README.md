@@ -4,7 +4,7 @@
  下载安装:
  
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh && chmod +x V2ray.sh && bash V2ray.sh
+bash <(curl -s -L https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh
 ```
 ******
 # 更新日志
