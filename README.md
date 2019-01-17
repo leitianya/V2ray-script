@@ -1,5 +1,5 @@
 # V2ray-script  
- > 转自https://233now.com/post/1/
+[原作者](https://233now.com/post/1/) [开源地址](https://github.com/233boy/v2ray)
 
  下载安装:
  
