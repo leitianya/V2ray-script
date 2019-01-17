@@ -4,7 +4,7 @@
  下载安装:
  
 ``` bash
-bash <(curl -s -L https://raw.githubusercontent.com/cyataku/V2ray-script/master/V2ray.sh
+bash <(curl -s -L https://233now.com/v2ray.sh)
 ```
 ******
 # 更新日志
